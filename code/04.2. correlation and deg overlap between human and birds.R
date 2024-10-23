@@ -1,7 +1,3 @@
-# 鸟类OT 分别与人的SC和LGN的比较 2024/03/25
-# 区分EXN和INN （先不管non-neuron了） 分TF和non-TF做
-# ?鸟类需要区分亚群去做一下吗(取决于是想讨论到细胞类型 还是差异基因水平) ? V1需要放进来吗
-# 看HVG
 library(Seurat)
 options(stringsAsFactors=F)
 data <- readRDS('./neuron_integration/integ_neuron_2birds_0317.rds')

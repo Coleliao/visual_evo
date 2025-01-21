@@ -8,3 +8,8 @@ birds, optic tectum, visual evolution, snRNA-seq, comparative analysis
 
 <img src="https://github.com/user-attachments/assets/04618e97-b58b-407f-b9c6-05ca4b181f50" width="600" height="600">
 
+<h2> Highlights </h2>
+1.	snRNA-seq constructs the cellular landscape of avian tectum<br>
+2.	Cross-hemispheric lateralization at the transcriptional level is subtle<br>
+3.	Two distinct projecting neuron types are identified in the retinotectal pathway<br>
+4.	13 functional molecules were shared across dominant visual pathways in vertebrates<br>

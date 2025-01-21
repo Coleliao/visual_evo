@@ -6,4 +6,5 @@ During the evolution of vertebrates, significant transformations have occurred i
 ## Key words
 birds, optic tectum, visual evolution, snRNA-seq, comparative analysis
 
+<img src="https://github.com/user-attachments/assets/04618e97-b58b-407f-b9c6-05ca4b181f50" width="600" height="600">
 

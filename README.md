@@ -13,3 +13,6 @@ birds, optic tectum, visual evolution, snRNA-seq, comparative analysis
 2.	Cross-hemispheric lateralization at the transcriptional level is subtle<br>
 3.	Two distinct projecting neuron types are identified in the retinotectal pathway<br>
 4.	13 functional molecules were shared across dominant visual pathways in vertebrates<br>
+
+## Please cite:
+Kuo Liao, Ya Xiang, Youning Lin, Pingfang Liao, Wenbo Xu, Zhenlong Wang, Zhenkun Zhuang, Single-nucleus profiling decoding the subcortical visual pathway evolution of vertebrates, ISCIENCE (2025), doi: https://doi.org/10.1016/j.isci.2025.112128.
